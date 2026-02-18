@@ -5,7 +5,7 @@
 ## Jurídico
 
 * [Políticas de Privacidade](juridico/politicas-de-privacidade.md)
-* [Termos de Uso](juridico/termos-de-uso.md)
+* [Termos de Uso e Serviço](juridico/termos-de-uso-e-servico.md)
 
 ## Funcionalidades
 
